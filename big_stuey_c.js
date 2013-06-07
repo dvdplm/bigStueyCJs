@@ -1,1 +1,1 @@
-console.log('riding big stuey c js brah')
+alert('riding big stuey c js brah');
